@@ -1,6 +1,6 @@
 {
-  "name": "Vonage Video Watch Party APP",
-  "description": "Run a video watch pary",
+  "name": "Card Game APP",
+  "description": "Run a card game",
   "keywords": ["rails", "javascript", "ruby", "vonage", "video"],
   "scripts": {
     "postdeploy": "bundle exec rake db:migrate"
